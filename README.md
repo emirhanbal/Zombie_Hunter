@@ -1,4 +1,4 @@
-# Zombie_Hunter
+# Zombie Hunter
 A shooting game with a third person camera angle:
 
 :earth_americas: A map with very simple objects.
