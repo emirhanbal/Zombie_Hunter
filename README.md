@@ -19,6 +19,6 @@ A shooting game with a third person camera angle:
 
 :mending_heart: The player who is damaged in the zombie attack will increase his health as he kills more zombies.
 
-![20ca603c-a34d-437d-b2ee-5e18df0f7cb6](https://user-images.githubusercontent.com/58405854/179869134-7aa463dc-304e-42e0-ba45-77c647b4b900.jpg)
+
 
 
